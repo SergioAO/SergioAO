@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Laravel and Docker  
   
 
-- 👨‍💻 All of my projects: [https://github.com/SergioAO?tab=repositories]  
+- 👨‍💻 All of my projects: https://github.com/SergioAO?tab=repositories
   
 
 - 📫 How to reach me: sergi_anaya@hotmail.es  
